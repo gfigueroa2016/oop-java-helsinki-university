@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name/nbproject/private/
+/mooc-2013-OOProgrammingWithJava-PART1/week1-003.Spruce/nbproject/private/
+/mooc-2013-OOProgrammingWithJava-PART1/week1-002.HelloWorld/nbproject/private/
+/mooc-2013-OOProgrammingWithJava-PART1/week1-004.ChangingVariables/nbproject/private/
+/mooc-2013-OOProgrammingWithJava-PART1/week1-007.Multiplication/nbproject/private/
+/mooc-2013-OOProgrammingWithJava-PART1/week1-005.SecondsOfTheYear/nbproject/private/
+/mooc-2013-OOProgrammingWithJava-PART1/week1-006.Addition/nbproject/private/
